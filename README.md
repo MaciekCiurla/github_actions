@@ -34,3 +34,4 @@ Who this course is for:
 Samples for Github Actions DevOps pipelines and workflows.
 
 [![030-dotnet-workflow](https://github.com/MaciekCiurla/github_actions/actions/workflows/030-dotnet-workflow.yml/badge.svg)](https://github.com/MaciekCiurla/github_actions/actions/workflows/030-dotnet-workflow.yml)
+[![031-build-deploy-webapp-to-azure](https://github.com/MaciekCiurla/github_actions/actions/workflows/031-build-deploy-webapp-to-azure.yml/badge.svg)](https://github.com/MaciekCiurla/github_actions/actions/workflows/031-build-deploy-webapp-to-azure.yml)
