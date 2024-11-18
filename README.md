@@ -43,6 +43,8 @@ Samples for Github Actions DevOps pipelines and workflows.
 
 [![040-github-linter](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/040-github-linter.yml)
 
+[![030-dotnet-workflow](https://github.com/MaciekCiurla/github_actions/actions/workflows/030-dotnet-workflow.yml/badge.svg)](https://github.com/MaciekCiurla/github_actions/actions/workflows/030-dotnet-workflow.yml)
+
 [![050-docker-build-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/050-docker-build-workflow.yml)
 
 [![052-docker-ghcr-workflow](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml/badge.svg)](https://github.com/HoussemDellai/github-actions-course/actions/workflows/052-docker-ghcr-workflow.yml)
