@@ -17,6 +17,8 @@ jobs:
     defaults:
       run:
         working-directory: 03-app-dotnet
+        using: 'node20'
+        main: 'main.js'
 
     steps:
     - uses: actions/checkout@v3
